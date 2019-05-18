@@ -1,0 +1,17 @@
+c:\Users\adeyemi\Source\Repos\azuredevops\Simple.API\Simple.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\adeyemi\Source\Repos\azuredevops\Simple.API\Simple.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\adeyemi\Source\Repos\azuredevops\Simple.API\Simple.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+c:\Users\adeyemi\Source\Repos\azuredevops\Simple.API\Simple.Test\bin\Debug\netcoreapp2.2\Simple.Test.deps.json
+c:\Users\adeyemi\Source\Repos\azuredevops\Simple.API\Simple.Test\bin\Debug\netcoreapp2.2\Simple.Test.runtimeconfig.json
+c:\Users\adeyemi\Source\Repos\azuredevops\Simple.API\Simple.Test\bin\Debug\netcoreapp2.2\Simple.Test.runtimeconfig.dev.json
+c:\Users\adeyemi\Source\Repos\azuredevops\Simple.API\Simple.Test\bin\Debug\netcoreapp2.2\Simple.Test.dll
+c:\Users\adeyemi\Source\Repos\azuredevops\Simple.API\Simple.Test\bin\Debug\netcoreapp2.2\Simple.Test.pdb
+c:\Users\adeyemi\Source\Repos\azuredevops\Simple.API\Simple.Test\bin\Debug\netcoreapp2.2\Simple.API.dll
+c:\Users\adeyemi\Source\Repos\azuredevops\Simple.API\Simple.Test\bin\Debug\netcoreapp2.2\Simple.API.pdb
+c:\Users\adeyemi\Source\Repos\azuredevops\Simple.API\Simple.Test\obj\Debug\netcoreapp2.2\Simple.Test.csprojAssemblyReference.cache
+c:\Users\adeyemi\Source\Repos\azuredevops\Simple.API\Simple.Test\obj\Debug\netcoreapp2.2\Simple.Test.csproj.CoreCompileInputs.cache
+c:\Users\adeyemi\Source\Repos\azuredevops\Simple.API\Simple.Test\obj\Debug\netcoreapp2.2\Simple.Test.AssemblyInfoInputs.cache
+c:\Users\adeyemi\Source\Repos\azuredevops\Simple.API\Simple.Test\obj\Debug\netcoreapp2.2\Simple.Test.AssemblyInfo.cs
+c:\Users\adeyemi\Source\Repos\azuredevops\Simple.API\Simple.Test\obj\Debug\netcoreapp2.2\Simple.Test.csproj.CopyComplete
+c:\Users\adeyemi\Source\Repos\azuredevops\Simple.API\Simple.Test\obj\Debug\netcoreapp2.2\Simple.Test.dll
+c:\Users\adeyemi\Source\Repos\azuredevops\Simple.API\Simple.Test\obj\Debug\netcoreapp2.2\Simple.Test.pdb
