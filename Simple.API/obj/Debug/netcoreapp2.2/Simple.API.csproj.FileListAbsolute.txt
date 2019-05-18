@@ -3,7 +3,6 @@ c:\users\adeyemi\source\repos\azuredevops\Simple.API\Simple.API\bin\Debug\netcor
 c:\users\adeyemi\source\repos\azuredevops\Simple.API\Simple.API\bin\Debug\netcoreapp2.2\Simple.API.runtimeconfig.dev.json
 c:\users\adeyemi\source\repos\azuredevops\Simple.API\Simple.API\bin\Debug\netcoreapp2.2\Simple.API.dll
 c:\users\adeyemi\source\repos\azuredevops\Simple.API\Simple.API\bin\Debug\netcoreapp2.2\Simple.API.pdb
-c:\users\adeyemi\source\repos\azuredevops\Simple.API\Simple.API\obj\Debug\netcoreapp2.2\Simple.API.csprojAssemblyReference.cache
 c:\users\adeyemi\source\repos\azuredevops\Simple.API\Simple.API\obj\Debug\netcoreapp2.2\Simple.API.csproj.CoreCompileInputs.cache
 c:\users\adeyemi\source\repos\azuredevops\Simple.API\Simple.API\obj\Debug\netcoreapp2.2\Simple.API.RazorAssemblyInfo.cache
 c:\users\adeyemi\source\repos\azuredevops\Simple.API\Simple.API\obj\Debug\netcoreapp2.2\Simple.API.RazorAssemblyInfo.cs
