@@ -16,11 +16,12 @@ variables:
 
 steps:
 
+
 - task: DotNetCoreCLI@2
 inputs: 
-command: test
-projects: '**/*Simple.Test/*.csproj'
-arguments: '--configuration $(buildConfiguration)'
+   command: test
+   projects: '**/*Simple.Test/*.csproj'
+   arguments: '--configuration $(buildConfiguration)'
 
 
 - script: dotnet build --configuration $(buildConfiguration)
